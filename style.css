@@ -1,1 +1,72 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  color: #333;
+  font-size: 24px;
+  font-weight: bold;
+}
+h2 {
+  color: #555;
+  font-size: 20px;
+  font-weight: bold;
+}
 
+p {
+  color: #666;
+  font-size: 16px;
+  line-height: 1.5;
+}
+a {
+  color: #0078d4;
+  text-decoration: none;
+}
+a:visited {
+  color: #4b0082;
+}
+a:hover {
+  text-decoration: underline;
+}
+ul {
+  list-style-type: disc;
+}
+ol {
+  list-style-type: decimal;
+}
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+button {
+  background-color: #0078d4;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+.custom-class {
+}
