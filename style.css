@@ -53,10 +53,7 @@ button {
   border-radius: 5px;
   cursor: pointer;
 }
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
+
 th, td {
   border: 1px solid #ccc;
   padding: 8px;
@@ -69,4 +66,10 @@ footer {
   padding: 10px;
 }
 .custom-class {
+}
+.tablemarco{
+  width:90%;
+  text-align: center;
+  padding: 10px;
+}
 }
